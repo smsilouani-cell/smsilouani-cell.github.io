@@ -1,23 +1,36 @@
 .backgroundphoto{
-			background-image: url(../img/https://thumbs.dreamstime.com/b/vibrant-cosmic-energy-flow-particles-illuminate-space-forming-dynamic-orange-blue-hues-396705811.jpg)
-			background-repeat: no-repeat;
-			background-attachment: fixed;
-			background-size: 100% 100%;
+	background-image: url(https://thumbs.dreamstime.com/b/vibrant-cosmic-energy-flow-particles-illuminate-space-forming-dynamic-orange-blue-hues-396705811.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
 }
 
-
-
-body{
-	background: #0212F7;
+.myrow {
+	height: 80vh;
 }
 
+h1 {
+	color: white;
+	text-align: center;
+}
 .yeah{
 	font-weight: bold;
 }
 
 .yo{
-	width:100%
+	width:100%;
 }
 
 .hehehh{
-		border: 30}
+	padding-top: 40px;
+}
+
+.hehehh2{
+	padding-top: 40px;
+	background-color: pink;
+	text-align: right;
+}
+
+li {
+	list-style-type: none;
+}
