@@ -1,5 +1,23 @@
+.backgroundphoto{
+			background-image: url(../img/https://thumbs.dreamstime.com/b/vibrant-cosmic-energy-flow-particles-illuminate-space-forming-dynamic-orange-blue-hues-396705811.jpg)
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: 100% 100%;
+}
 
+
+
+body{
+	background: #0212F7;
+}
 
 .yeah{
 	font-weight: bold;
 }
+
+.yo{
+	width:100%
+}
+
+.hehehh{
+		border: 30}
